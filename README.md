@@ -34,6 +34,7 @@ ___
 | 2.0.0 | Windows | Release | CN | [resources.json](https://pcdownload-aliyun.aki-game.com/pcstarter/prod/game/G152/2.0.0/WatnFnudCyaviYfWSRMGpaunniRKFbf2/resource.json) | [Resources Base Path](https://pcdownload-aliyun.aki-game.com/pcstarter/prod/game/G152/2.0.0/WatnFnudCyaviYfWSRMGpaunniRKFbf2/zip/) | Active |
 | 2.0.0 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/pcstarter/prod/game/G153/2.0.0/dYGUgJ4OU32vlaINFxiezlB3D3XFWebp/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/pcstarter/prod/game/G153/2.0.0/dYGUgJ4OU32vlaINFxiezlB3D3XFWebp/zip/) | Active |
 | 2.0.1 | Windows | Release | CN | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/pcstarter/prod/game/G152/2.0.0/WatnFnudCyaviYfWSRMGpaunniRKFbf2/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/pcstarter/prod/game/G152/2.0.0/WatnFnudCyaviYfWSRMGpaunniRKFbf2/zip/) | Active |
+| 2.7.0 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/2.7.0/FvJDCbhdFzWeQFHYzCZZkAaIfjjSBXFL/zip) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/2.7.0/FvJDCbhdFzWeQFHYzCZZkAaIfjjSBXFL/zip) | Active |
 
 ___
 ## How to download the files?
