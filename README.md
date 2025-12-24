@@ -43,7 +43,7 @@ ___
 | 2.4.3 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/2.4.3/SZqhxsTkRdyUlZaLhFuJobLKYodsAwan/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/2.4.3/SZqhxsTkRdyUlZaLhFuJobLKYodsAwan/zip/) | Active |
 | 2.7.0 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/2.7.0/FvJDCbhdFzWeQFHYzCZZkAaIfjjSBXFL/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/2.7.0/FvJDCbhdFzWeQFHYzCZZkAaIfjjSBXFL/zip) | Active |
 | 2.8.0 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/2.8.0/PVGTRZPhMXlZIvSlbcrDuaEGcfmVCJHb/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/2.8.0/PVGTRZPhMXlZIvSlbcrDuaEGcfmVCJHb/zip) | Active |
-
+| 3.0.0 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/3.0.0/VHFKMmpPMAOkiDjoGDyBlFEDMKliCOlJ/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/3.0.0/VHFKMmpPMAOkiDjoGDyBlFEDMKliCOlJ/zip) | Active |
 ___
 ## How to download the files?
 
