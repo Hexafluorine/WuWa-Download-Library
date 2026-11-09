@@ -54,7 +54,14 @@ ___
 | 3.5.1 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/3.5.1/OVbsaHdpFQirIfCoDdyprJxlKPJAkFtW/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/3.5.1/OVbsaHdpFQirIfCoDdyprJxlKPJAkFtW/zip) | Active |
 | 3.5.2 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/3.5.2/RxCoTPNnVxnHpaqTVIwLgLLoLwdkUKlI/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/3.5.2/RxCoTPNnVxnHpaqTVIwLgLLoLwdkUKlI/zip) | Active |
 | 3.5.3 | Windows | Release | OS | [resources.json](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/3.5.3/gRVMelcLHwwQykhxXzJfPEvTapozzRhf/resource.json) | [Resources Base Path](https://hw-pcdownload-aliyun.aki-game.net/launcher/game/G153/50004/3.5.3/gRVMelcLHwwQykhxXzJfPEvTapozzRhf/zip) | Active |
+| 3.7.0 | Windows | Release | OS | [indexFile.json](https://hw-pcdownload-aws.aki-game.net/launcher/game/G153/50004/3.7.0/95231f15e9c2495888f4547bf0867358/common/indexFile.json) | [Resources Base Path](https://hw-pcdownload-aws.aki-game.net/launcher/game/G153/50004/3.7.0/95231f15e9c2495888f4547bf0867358/zip) | Active |
+| 3.7.1 | Windows | Release | OS | [indexFile.json](https://hw-pcdownload-aws.aki-game.net/launcher/game/G153/50004/3.7.1/0161ebdb6a6d478384e4b1bf2404baa1/common/indexFile.json) | [Resources Base Path](https://hw-pcdownload-aws.aki-game.net/launcher/game/G153/50004/3.7.1/0161ebdb6a6d478384e4b1bf2404baa1/zip) | Active |
+| 3.7.2 | Windows | Release | OS | [indexFile.json](https://hw-pcdownload-aws.aki-game.net/launcher/game/G153/50004/3.7.2/e7b21e2bc2ac4a0cb990f4427bd3f331/common/indexFile.json) | [Resources Base Path](https://hw-pcdownload-aws.aki-game.net/launcher/game/G153/50004/3.7.2/e7b21e2bc2ac4a0cb990f4427bd3f331/zip) | Active |
 ___
+## 3.7 Changes
+As of 3.7, Kurogames changed how downloading game clients worked. 
+- Game clients now share common resources and are split into SD, HD, and UHD. 
+- Resources.json is renamed to indexFile.json and is now split between common, sd, hd, and uhd. Will be updating this repository soon to reflect recent changes soon.
 ## How to download the files?
 
 Use the [Wuthering Waves Download Tool](https://github.com/ClostroOffi/wuwa-dl-tool).
